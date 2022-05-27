@@ -1,0 +1,23 @@
+{
+	"name": "strapi-template-blog",
+	"version": "0.1.0",
+	"description": "Strapi blog template",
+	"keywords": [
+		"strapi",
+		"template",
+		"blog"
+	],
+	"homepage": "https://github.com/rawestmoreland/strapi-template-blog#readme",
+	"bugs": {
+		"url": "https://github.com/rawestmoreland/strapi-template-blog/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rawestmoreland/strapi-template-blog.git"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "R Westmoreland",
+		"url": "https://richardawestmoreland.com"
+	}
+}
